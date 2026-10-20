@@ -1,2 +1,13 @@
-# python-task-tracker
-A command-line task manager built with Python. Create, search, prioritize, and track tasks with due dates, while saving everything locally.
+# Task Manager
+
+A command-line task manager built with Python. Add tasks, set priorities and due dates, search your list, and track completed or overdue tasks. Tasks are saved locally in `tasks.json`.
+
+## Requirements
+
+- Python 3.10 or newer
+- No external packages required
+
+## Run it
+
+```bash
+python task_manager.py
